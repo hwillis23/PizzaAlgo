@@ -1,0 +1,9 @@
+
+1. pull up google 
+2. decide which business to order from 
+3. decide which pizza size to order 
+4. decide which pizza topping to order 
+5. decide if need any extra sides 
+6.place the order 
+7.pay for pizza order 
+
