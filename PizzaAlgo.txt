@@ -5,5 +5,7 @@
 4. decide which pizza topping to order 
 5. decide if need any extra sides 
 6.place the order 
-7.pay for pizza order 
+7.pay for the pizza order 
+8.earned 20 points for buying pizza online 
+9.recieve 5 percent off for paying with cash 
 
